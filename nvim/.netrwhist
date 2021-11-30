@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/gideon/Lab/SchoolManagmentSystemAPI/src/student'
+let g:netrw_dirhist_2='/home/gideon/Lab/SchoolManagmentSystemAPI/src'
+let g:netrw_dirhist_1='/home/gideon/Lab/SchoolManagmentSystemAPI'
+let g:netrw_dirhist_0='/home/gideon/.config/awesome/themes/copland'
+let g:netrw_dirhist_9='/home/gideon/.config/awesome/themes'
+let g:netrw_dirhist_8='/home/gideon/.config/awesome'
+let g:netrw_dirhist_7='/home/gideon/terminator'
+let g:netrw_dirhist_6='/home/gideon/picom'
+let g:netrw_dirhist_5='/home/gideon'
+let g:netrw_dirhist_4='/home/gideon/picom'
